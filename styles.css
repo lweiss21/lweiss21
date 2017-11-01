@@ -1,7 +1,7 @@
     body {
         text-align: center;
         background-color: #C80E1F;
-        color: magenta;
+        color: black;
         margin: 20px;
     }
     img {
@@ -11,7 +11,7 @@
     
     #content{
         margin: 20px 0;
-        background: black;
+        background: white;
         padding: 5px;
     }
     
